@@ -65,6 +65,11 @@
 <br />
 <br />
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<br />
+<br />
+
 <div align=center> 
   🗂️ GitHub State
   <br><br>
