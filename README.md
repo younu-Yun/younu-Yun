@@ -65,7 +65,7 @@
 <br />
 <br />
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 <br />
 <br />
@@ -81,3 +81,6 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=younu-Yun&show_icons=true">
 </div>
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
